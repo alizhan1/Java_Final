@@ -32,3 +32,8 @@ application {
     // Define the main class for the application
     mainClassName = 'homework.HelloWorld'
 }
+
+buildScan {
+    licenseAgreementUrl = "https://gradle.com/terms-of-service"
+    licenseAgree = "yes"
+}
