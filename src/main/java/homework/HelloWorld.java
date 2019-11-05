@@ -1,6 +1,6 @@
 public class HelloWorld {
     public static void main(String[] args){
-        System.out.println("Hello World HSU!");
+        System.out.println("Hello World Harbour.Space!");
     }
 }
 
